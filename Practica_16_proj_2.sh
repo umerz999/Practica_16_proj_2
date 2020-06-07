@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#https://github.com/FJBERNI/Practica16
+#https://github.com/umerz999/Practica_16_proj_2.git
 
 # Comproba si UID = 0 (root).
 if [[ "${UID}" -eq 0 ]]
